@@ -1,0 +1,102 @@
+﻿  actionLog.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\actionLog.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+  bgShapes.cpp
+  bitmapText.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\bitmapText.cpp(76,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\bitmapText.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+  button.cpp
+  character.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\character.cpp(34,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\character.cpp(111,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\character.cpp(111,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Enemy.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\Enemy.cpp(48,36): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\Enemy.cpp(49,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  gameObject.cpp
+  displayBar.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.hpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.cpp(20,40): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.cpp(40,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.cpp(67,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.cpp(88,40): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  highscore.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\highscore.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\highscore.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\displayBar.hpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\main.cpp(146,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\main.cpp(154,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\main.cpp(280,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\main.cpp(399,32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\main.cpp(400,39): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  scene.cpp
+  sceneHandler.cpp
+  spriteObject.cpp
+  textObject.cpp
+  Generating Code...
+  lab4Test.vcxproj -> C:\Projects\CMGT YEAR 2\C++\TabeaVanHasz-475830-2021\Debug\lab4Test.exe
